@@ -28,7 +28,7 @@
 <meta property="og:description" content="type: categoriescomments: false">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2024-02-16T13:35:59.000Z">
-<meta property="article:modified_time" content="2024-02-16T13:36:28.107Z">
+<meta property="article:modified_time" content="2024-02-16T13:39:22.654Z">
 <meta property="article:author" content="kkXu">
 <meta property="article:tag" content="计算机体系结构，芯片设计开发">
 <meta name="twitter:card" content="summary">
@@ -190,8 +190,15 @@
       
       
       <div class="post-body">
-          <p>type: categories<br>comments: false</p>
-
+          <div class="category-all-page">
+            <div class="category-all-title">
+              目前共计 1 个分类
+            </div>
+            <div class="category-all">
+              <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/test/">test</a><span class="category-list-count">1</span></li></ul>
+            </div>
+          </div>
+        
       </div>
       
       
@@ -206,7 +213,6 @@
 
           </div>
           
-    <div class="comments" id="gitalk-container"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -271,12 +277,16 @@
         </a>
       </div>
       <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
         <span class="site-state-item-count">1</span>
-        <span class="site-state-item-name">分类</span>
+        <span class="site-state-item-name">分类</span></a>
       </div>
       <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
         <span class="site-state-item-count">1</span>
-        <span class="site-state-item-name">标签</span>
+        <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
 </div>
@@ -426,25 +436,6 @@ window.addEventListener('pjax:success', () => {
 
   
 
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
-
-<script>
-NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
-  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
-    var gitalk = new Gitalk({
-      clientID    : 'bbc8ad88a334590e02e0',
-      clientSecret: 'ce64803231deabe4bff94c433d02f22dea3d94bd',
-      repo        : 'xululi0223.github.io',
-      owner       : 'xululi0223',
-      admin       : ['xululi0223'],
-      id          : 'a676607444a8bc8b150c9a3aff884e61',
-        language: 'zh-CN',
-      distractionFreeMode: true
-    });
-    gitalk.render('gitalk-container');
-  }, window.Gitalk);
-});
-</script>
 
     </div>
 </body>
