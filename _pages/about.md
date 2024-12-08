@@ -21,6 +21,8 @@ Hi! I am currently pursuing a master's degree at Nanjing University under the su
 I received my bachelor's degree in June 2023 from the School of Mechanical, Electrical & Information Engineering at Shandong University. 
 My research interests include model compression and energy-efficient intelligent processor architectures.
 
+Contact me: qinkaixu@smail.nju.edu.cn
+
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by DATE 2025. 
 
