@@ -26,9 +26,6 @@ My research interests include model compression and energy-efficient intelligent
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 - [LT-OAQ: Learnable Threshold based Outlier-Aware Quantization for Low-Precision On-Chip Training], **Qinkai Xu**, Yijin Liu, Yuan Meng,
 Yang Chen, Yunlong Mao, Li Li, Yuxiang Fu, **DATE 2025**
 
