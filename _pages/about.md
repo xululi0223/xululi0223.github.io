@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am currently pursuing a master's degree at Nanjing University under the supervision of Professor Li Li and Professor Fu Yuxiang. 
+Hi! I am currently pursuing a master's degree at Nanjing University under the supervision of Professor Li Li and Professor Yuxiang Fu. 
 I received my bachelor's degree in June 2023 from the School of Mechanical, Electrical & Information Engineering at Shandong University. 
 My research interests include model compression and energy-efficient intelligent processor architectures.
 
